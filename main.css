@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+.centerable {
+  margin: 1em auto;
+}
+
+#year-container {
+  width: 6em;
+}
+#year {
+  width: 6em;
+}
+#month-container {
+  width: 10em;
+}
+#month {
+  width: 10em;
+}
+#day-container {
+  width: 6em;
+}
+#day {
+  width: 6em;
+}
+#category-container {
+  width: 10em;
+}
+#amount-container {
+  width: 10em;
+}
